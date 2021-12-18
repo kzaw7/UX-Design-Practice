@@ -64,6 +64,7 @@ Both the Lean UX and Double Diamond frameworks are useful for entry-level UX des
 Keep in mind that the Google UX Design Certificate was built with the design process in mind. Each course follows the progression of these steps: empathize, define, ideate, prototype, and test. Keep up the great work!
 
 Common retrospective questions
+
 Every design sprint is an opportunity for your team to learn something new. This is especially useful for entry-level UX designers joining a design sprint for the first time. 
 
 During a design sprint, the focus is on: 
