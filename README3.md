@@ -31,6 +31,8 @@ As you map the content of your portfolio website, consider answers to these ques
 What will you include on your portfolio homepage? 
 
 What elements, if any, do you want to include together?
+<img width="861" alt="img" src="https://user-images.githubusercontent.com/74020237/146690743-b9613b8c-0f56-4c18-b8a1-a5283803e23b.png">
+
 
 How many pages overall will you need, and what should you title each page?
 
